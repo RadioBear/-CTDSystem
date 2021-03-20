@@ -1,5 +1,5 @@
-# CTDSystem_Unity
-Configurable table data system
+# CDTable
+Configurable data table
 
 ## 特点
 - 先每个表动态计算出bucket大小，索引放在每个bucket当中。索引与bucket的映射尽量简单，只使用少量计算。
